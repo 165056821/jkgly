@@ -27,9 +27,3 @@ https://github.com/165056821/jkgly/issues
 
 <div align=center><img width="150" height="150" src="https://github.com/165056821/jkgly/blob/master/images/donate_alipay.png"/></div>
 <div align=center><img width="150" height="150" src="https://github.com/165056821/jkgly/blob/master/images/donate_weixin.png"/></div>
-
-<div style="width:765px;height:230px;margin-left:auto;margin-right:auto;">
-<div style="width:255px;height:230px;float:left;background-image:url(https://github.com/165056821/jkgly/blob/master/images/donate_alipay.png);background-repeat:no-repeat;"></div>
-<div style="width:255px;height:230px;float:left;background-image:url(https://github.com/165056821/jkgly/blob/master/images/donate_weixin.png);background-repeat:no-repeat;"></div>
-<div style="width:255px;height:230px;float:left;background-image:url(https://github.com/165056821/jkgly/blob/master/images/donate_weixin.png);background-repeat:no-repeat;"></div>
-</div>
