@@ -6,6 +6,7 @@
 
 ## 安装下载
 
+- 下载地址 https://github.com/165056821/jkgly/releases
 
 
 
