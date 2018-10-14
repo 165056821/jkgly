@@ -24,5 +24,5 @@ https://github.com/165056821/jkgly/issues
 ## 关于作者
 - 个人地址
 - 二维码
-https://github.com/165056821/jkgly/blob/master/images/donate_alipay.png
+![Image text](https://github.com/165056821/jkgly/blob/master/images/donate_alipay.png)
 
